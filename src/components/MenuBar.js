@@ -1,7 +1,6 @@
 import React from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import { Toolbar, Typography, Grid } from '@material-ui/core';
-import '../styles/components/MenuBar.css';
 import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles(() => ({
